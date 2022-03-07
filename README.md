@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sneharawat080
-- 👀 I’m interested in game developing ediiting animation and programming
+- 👀 I’m interested in Game developing,Editing,Animation and Programming
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me my gmail is sneharawat862@gmail.com
