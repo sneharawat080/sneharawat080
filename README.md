@@ -1,20 +1,28 @@
-<h1 align="center">Hi 👋, I'm Sneha Rawat</h1>
-<h3 align="center">A passionate Multilingual Programmer from India</h3>
+<h1 align="center">Hi 👋, I'm Sneha Rawat</h1>  
+<h3 align="center">A passionate Multilingual Programmer from India 🇮🇳</h3>  
 
-- 🔭 I’m currently working on **Python Web Scraper**
+---
 
-- 🌱 I’m currently learning **data science**
+- 🌱 I’m currently learning **Data Science** to strengthen my analytical and problem-solving skills.  
+- 🔬 I’m doing research in **AI & Machine Learning applications in Astrophysics**, focusing on data analysis techniques for space science.  
+- 👯 I’m looking to collaborate on **Open Source Web Development Projects.**  
+- 🤝 I’m seeking guidance on **Time Series Analysis for Stock Prediction.**  
+- 💬 Ask me about: **HTML, CSS, JavaScript, Python, SQL, Java, Canva, and Graphic Designing.**  
+- 📫 Reach me at: **sneharawat080@gmail.com**  
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/sneharawat08/)  
 
-- 👯 I’m looking to collaborate on **Open Source Web Development**
+---
 
-- 🤝 I’m looking for help with **Time Series Analysis for Stock Prediction**
+### ⚡ Fun Facts About Me  
+- **One Piece Enthusiast:** I've watched every episode of *One Piece* and often re-watch my favorite arcs to relive the excitement. I also collect *One Piece* memorabilia and enjoy diving deep into fan theories.  
+- **Creative Storyteller:** I have a vivid imagination and a natural flair for storytelling. My friends enjoy the unique stories and inventive plot twists I come up with.
 
-- 💬 Ask me about **html,css,javascript,python.sql,java,canva,graphic designing**
+---
 
-- 📫 How to reach me **sneharawat080@gmail.com**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sneharawat&show_icons=true&theme=radical" alt="Sneha's GitHub stats" />
+</p>
 
-- ⚡ Fun fact **One Piece Enthusiast: I've watched every episode of One Piece and often re-watch my favorite arcs to relive the excitement. My collection includes various One Piece memorabilia, and I enjoy exploring fan theories.
-- Creative Storyteller: I have a vivid imagination and a natural talent for crafting unique stories. My friends are captivated by my ability to come up with inventive plot twists and original concepts.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
