@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sneha Rawat</h1>
-<h3 align="center">🚀 Aspiring AI Product Manager | Building AI-driven Products</h3>
+<h3 align="center">🚀  AI Product Manager | Building AI-driven Products</h3>
 
 <p align="center">
 💡 Passionate about turning ideas into scalable AI products <br>
